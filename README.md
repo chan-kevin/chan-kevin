@@ -7,7 +7,7 @@ Hi there, I am Kevin Chan👋 Welcome to my Profile!
 <!-- <img src="/assets/github-header.png" alt="header"> -->
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=26&duration=2000&color=4B4C4D&center=true&multiline=true&repeat=false&width=750&height=70&lines=Hi%2C+there!++Welcome+to+my+profile;I'm+Kevin+Chan%2C+a+passionate+Fullstack+Software+Engineer" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=26&duration=2000&pause=2000&color=4B4C4D&center=true&multiline=true&width=750&height=70&lines=Hi%2C+there!++Welcome+to+my+profile;I'm+Kevin+Chan%2C+a+passionate+Fullstack+Software+Engineer" alt="Typing SVG" />
 </p>
 
 </br>
@@ -23,6 +23,7 @@ Hi there, I am Kevin Chan👋 Welcome to my Profile!
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kchannn13&show_icons=true&theme=rose_pine" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kchannn13&show_icons=true&theme=rose_pine#gh-dark-mode-only" height="160px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=kchannn13&show_icons=true&theme=gruvbox#gh-light-mode-only" height="160px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchannn13&layout=compact&&theme=rose_pine" height="160px"/>
 </div>
