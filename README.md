@@ -62,7 +62,7 @@
 </div>
 
 </br>
-
+<!-- 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=kchannn13&label=PROFILE+VIEWS" alt="profile-views" />
-</p>
+</p> -->
