@@ -57,8 +57,8 @@
 
 <h3>Github Stats</h3>   
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kchannn13&show_icons=true&theme=rose_pine#gh-dark-mode-only" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchannn13&layout=compact&&theme=rose_pine" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chan-kevin&show_icons=true&theme=rose_pine#gh-dark-mode-only" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan-kevin&layout=compact&&theme=rose_pine" height="160px"/>
 </div>
 
 </br>
