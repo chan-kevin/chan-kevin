@@ -65,6 +65,6 @@
 
 </br> -->
 <!-- 
-<p align="right">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=kchannn13&label=PROFILE+VIEWS" alt="profile-views" />
 </p> -->
