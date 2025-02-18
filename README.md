@@ -15,9 +15,6 @@
 </br>
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/kevin-chan-426203158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-   <a href="mailto:chankevin13@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-   <a href="https://wellfound.com/u/kevin-chan-86"><img src="https://img.shields.io/badge/Wellfound-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="wellfound" /></a>
    <a href="https://kevin-chan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="portfolio" /></a>
 </div>
 
