@@ -14,15 +14,11 @@
 
 </br>
 
-<div align="center">
-   <a href="https://kevin-chan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="portfolio" /></a>
-</div>
-
 ---
 
 <h3>About me</h3>
 
-<p>I am a software developer with a background in finance. After spending several years in the finance industry, I decided to make a change and pursue my passion for coding. As I continue to learn and develop my skills in programming, I have come to appreciate the endless possibilities and challenges that the field offers. The tech industry is constantly evolving and requires continuous learning, and that is something that excites me. I enjoy keeping up with new trends and technologies, and I am always looking for new ways to improve my skills.</p>
+<p>With a solid foundation in frontend development and a background in finance, I bring a unique perspective to software engineering. Having transitioned from finance to tech, I now specialize in creating dynamic, user-centric applications using modern frontend technologies like React, JavaScript, and Tailwind CSS. I leverage my analytical mindset and problem-solving skills to craft efficient, scalable solutions. My passion for coding is driven by a commitment to continuous learning and staying ahead of emerging trends. I thrive in fast-paced environments and enjoy collaborating with cross-functional teams to deliver high-quality products.</p>
 
 </br>
 
